@@ -4,5 +4,4 @@ This repository for list of conservation publications associated with urban ecol
 
 List:
 * Wales
-* Scotland
 
